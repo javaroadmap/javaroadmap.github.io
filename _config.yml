@@ -1,20 +1,17 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: Roadmap
+description: My Roadmap
+author: Java Roadmap
+github: https://github.com/javaroadmap
+about: Go for it ~
+disqus_shortname: javaroadmap
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
-
 enableTags: true
 tagarray: []
-
 collections:
   project:
     output: true
     permalink: /project/:path/
-
 social:
     - icon: fa-facebook
       link: "#"
@@ -25,21 +22,18 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
-
+      link: "https://github.com/javaroadmap"
 share:
   twitter_username: github.io
-  fb_appid: 1749788565247320
-
+  fb_appid: github.io
 urls:
-    - text: About Me
+    - text: 자바로드맵
       url: /about/
-    - text: My Projects
+    - text: 프로젝트
       url: /projects/
-    - text: XML Feed
+    - text: XML
       url: /feed.xml
-
-url: "https://agusmakmun.github.io"
+url: "https://javaroadmap.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
@@ -48,10 +42,10 @@ markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
-
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   endings: all
   ignore:
     envs: ['development']
+
