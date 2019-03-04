@@ -9,14 +9,58 @@ categories: [jekyll]
 class IntAdd {            
   int z;
   public int add(int x, int y)  {
-    return z  = x + y;  }
+    return z  = x + y;  
+  }
 }
 class AddMain {
   public static void main(String args[]) {
-    int a = Integer.parseInt(args[0]);
-    int b = Integer.parseInt(args[1]);
+    int a, b;
+    a = Integer.parseInt(args[0]);
+    b = Integer.parseInt(args[1]);
     IntAdd  addInstance = new IntAdd();
-    System.out.println("합계=" + addInstance.add(a,b));    }
+    System.out.println("합계=" + addInstance.add(a,b));
+  }
 }
 {% endhighlight %}
-![Screenshot jekyllx] (https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/jekyllthemesdotorg.png "Screenshot jekyllx")
+
+
+![Screenshot jekyll](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/jekyllthemesdotorg.png "Screenshot jekyll")
+![](/static/img/_posts/jekyllthemesdotorg.png)
+![Screenshot broadcast](https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/_posts/Broadcast_Mail.png  "Screenshot broadcast")
+![Screenshot jekyll](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/jekyllthemesdotorg.png  "Screenshot jekyll")
+
+```java
+class IntAdd {            
+  int z;
+  public int add(int x, int y)  {
+    return z  = x + y;  
+  }
+}
+class AddMain {
+  public static void main(String args[]) {
+    int a, b;
+    a = Integer.parseInt(args[0]);
+    b = Integer.parseInt(args[1]);
+    IntAdd  addInstance = new IntAdd();
+    System.out.println("합계=" + addInstance.add(a,b));
+  }
+}
+```
+{% highlight java %}
+class IntAdd {            
+  int z;
+  public int add(int x, int y)  {
+    return z  = x + y;  
+  }
+}
+class AddMain {
+  public static void main(String args[]) {
+    int a, b;
+    a = Integer.parseInt(args[0]);
+    b = Integer.parseInt(args[1]);
+    IntAdd  addInstance = new IntAdd();
+    System.out.println("합계=" + addInstance.add(a,b));
+  }
+}
+{% endhighlight %}
+끝.
