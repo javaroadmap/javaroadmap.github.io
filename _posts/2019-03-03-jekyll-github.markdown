@@ -19,4 +19,4 @@ class AddMain {
     System.out.println("합계=" + addInstance.add(a,b));    }
 }
 {% endhighlight %}
-![Screenshot jekyll] (https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/jekyllthemesdotorg.png "Screenshot  jekyll")
+![Screenshot jekyllx] (https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/jekyllthemesdotorg.png "Screenshot jekyllx")
