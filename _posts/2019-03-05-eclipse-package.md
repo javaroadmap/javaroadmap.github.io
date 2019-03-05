@@ -53,23 +53,26 @@ categories: [eclipse]
 
 ![Screen eclipse10](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipse10.png "Screen eclipse10")
 
-파일을 클릭하면 팝업창의 형태로 실행 확인 화면이 제공된다.  실행(R) 버튼을 클릭하여 실행을 확인한다.
+파일을 클릭하면 팝업창의 형태로 실행 확인 화면이 제공된다.  실행(R) 버튼을 클릭하여 실행한다.
 
 ![Screen eclipse11](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipse11.png "Screen eclipse11")
   
-실행이 확인되면, 이클립스 로고와 함께 2018-12 버전 명칭이 그림과 같이 제시된다. 실행 파일 로딩 시간은 컴퓨터 사양에 따라 다르지만 수십 초에서 수분의 시간이 소요된다.
-
-![Screen eclipse11](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipse11.png "Screen eclipse11")
-
-로딩이 완료되면 Eclipse IDE Launcher 대화창이 제시되고 사용자가 작성할 내용이 저장될 작업폴더인 Workspace를 지정할 수 있다. 실행을 위해 Launcher를 클릭한다.
+실행gkaus, 이클립스 로고와 함께 2018-12 버전 명칭이 그림과 같이 제시된다. 실행 파일 로딩 시간은 컴퓨터 사양에 따라 다르지만 수십 초에서 수분의 시간이 소요된다.
 
 ![Screen eclipse12](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipse12.png "Screen eclipse12")
 
-팝업화면으로 Welcome(환영) 화면이 제시되고, 환영화면에서는 개요(overview), 튜토리얼(tutorials), 예제(samples), 새소식(what's new) 등 각종 정보 링크가 제공된다. 화면과 같이 X를 클릭하여 환영화면을 닫는다.
-  
+로딩이 완료되면 Eclipse IDE Launcher 대화창이 제시되고 사용자가 작성할 내용이 저장될 작업폴더인 Workspace를 지정할 수 있다. 실행을 위해 Launcher를 클릭한다.
+
 ![Screen eclipse13](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipse13.png "Screen eclipse13")
 
-환영화면을 닫으면 이클립스 초기화면이 제시된다. 초기화면은 윗쪽의 File, Edit, Navigate 등 툴바 부분, 왼쪽의 Project Explorer 등으로 구성된다.
-
+팝업화면으로 Welcome(환영) 화면이 제시되고, 환영화면에서는 개요(overview), 튜토리얼(tutorials), 예제(samples), 새소식(what's new) 등 각종 정보 링크가 제공된다. 화면과 같이 X를 클릭하여 환영화면을 닫는다.
+  
 ![Screen eclipse14](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipse14.png "Screen eclipse14")
 
+환영화면을 닫으면 이클립스 초기화면이 제시된다. 초기화면은 윗쪽의 File, Edit, Navigate 등 툴바 부분, 왼쪽의 Project Explorer 등으로 구성된다. 
+
+![Screen eclipse15](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipse15.png "Screen eclipse15")
+
+이클립스를 이용한 개발에서 한글을 처리하기 위해서는 utf-8 설정이 피요하다. 이클립스 설정을 위해서 Window > Preferences > General > Appearance > Workspace로 이동한다. 그림과 괕이 utf-8로 설정하고, Apply & Close 버튼을 클릭한다. 이제, 이클립스를 이용한 코딩 개발이 준비되었다.
+ 
+![Screen eclipse16](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipse16.png "Screen eclipse16")
