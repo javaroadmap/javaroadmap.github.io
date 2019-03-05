@@ -17,7 +17,7 @@ class AddMain {
 }
 {% endhighlight %}
 ![Screenshot jekyll](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/jekyllthemesdotorg.png "Screenshot jekyll")
-![](https://javaroadmap.github.io/static/img/_posts/jekyllthemesdotorg.png)
+![Screenshot](https://javaroadmap.github.io/static/img/_posts/jekyllthemesdotorg.png)
 ```java
 class AddMain {
   public static void main(String args[]) {
