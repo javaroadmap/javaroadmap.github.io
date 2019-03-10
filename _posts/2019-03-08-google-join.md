@@ -25,7 +25,7 @@ categories: [google]
 
 ![Screen google5](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/googlesignup/google5.png "Screen google5")
 
-동의가 완료되면, 구글 화면이 그림과 같이 변경돠며, 오른쪽 윗 부분에 방금 가입한 계정으로 로그인이 되어 있음을 알 수 있다.
+동의가 완료되면, 구글 화면이 그림과 같이 변경되며, 오른쪽 윗 부분에 방금 가입한 계정으로 로그인이 되어 있음을 알 수 있다.
 
 ![Screen google6](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/googlesignup/google6.png "Screen google6")
 
