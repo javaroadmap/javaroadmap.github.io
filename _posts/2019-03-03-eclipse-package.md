@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "eclipse 설치 방법"
-date:   2019-03-05 13:00:00 
+date:   2019-03-03 13:00:00 
 categories: [eclipse]
 ---
 

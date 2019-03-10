@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "google 가입"
-date:   2019-03-08 10:00:00 
+date:   2019-03-04 10:00:00 
 categories: [google]
 ---
 

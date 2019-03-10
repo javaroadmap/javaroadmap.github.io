@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "github pages 사용 방법"
-date:   2019-03-10 13:00:00 
+date:   2019-03-06 13:00:00 
 categories: [github pages]
 ---
 
