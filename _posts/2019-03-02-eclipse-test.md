@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "jekyll picture 테스트"
-date:   2019-03-04 22:44:00 
+title:  "picture 테스트"
+date:   2019-03-02 22:44:00 
 categories: [jekyll]
 ---
-지킬은 무료로 제공되는 github pages에서 블로깅이 가능하도록 개발된 응용으로 그림과 같이 forking 한다.
+그림 테스트
 {% highlight raw %}
 class AddMain {
   public static void main(String args[]) {

@@ -4,7 +4,7 @@ title:  "eclipse 설치 방법"
 date:   2019-03-03 13:00:00 
 categories: [eclipse]
 ---
-
+ 
 이클립스(eclipse)는 윈도우스(windows), 맥OS(MacOS), 리눅스(Linux)등 다양한 소프트웨어 플랫폼에서 작동하는 
 통합 개발 환경(IDE, Integrated Development Environments)으로 초기에는 자바 개발 환경으로 개발되었으나
 최근에는 자바 프로그램을 포함하여, C/C++, PHP 등 매우 다양한 언어 환경을 지원한다.
