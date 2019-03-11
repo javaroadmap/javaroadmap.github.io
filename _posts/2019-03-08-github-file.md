@@ -2,7 +2,7 @@
 layout: post
 title:  "github file 사용 방법"
 date:   2019-03-08 13:00:00 
-categories: [github file]
+categories: [github]
 ---
 
 지난 튜토리얼의 깃헙 폴더 생성에 이어서, 깃헙 파일 관리에 대해 학습을 한다. 관리할 깃헙 파일은 지난 튜토리얼에서 생성한 html5/basicHtml.html 이다. 깃헙에 로그인한 후, 저장소(jsptogo.github.io)에서 Code 탭을 클릭하고, 제시된 디랙토리 구조에서 html5 폴더를 클릭한다.

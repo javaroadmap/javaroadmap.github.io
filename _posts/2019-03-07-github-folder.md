@@ -2,7 +2,7 @@
 layout: post
 title:  "github folder 사용 방법"
 date:   2019-03-07 13:00:00 
-categories: [github folder]
+categories: [github]
 ---
 
 이번 튜토리얼에서는 깃헙에서 하위 폴더를 생성하는 방법에 대해 설명하고자 한다. 인터넷 웹 환경인 깃헙은 별도의 폴더 생성 및 삭제 버튼을 제공하지 않으며, 파일 생성 및 삭제를 통해 폴더를 관리한다.

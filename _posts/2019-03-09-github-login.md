@@ -2,7 +2,7 @@
 layout: post
 title:  "github logout 방법"
 date:   2019-03-09 14:00:00 
-categories: [github logout]
+categories: [github]
 ---
 
 사용자가 깃헙에 로그인 하면, 대시보드 초기화면이 제시된다. 대시보드 화면 왼쪽에서는 사용자가 보유하고 있는 모든 저장소가 나열되며, 중앙 부분은 새로운 프로젝트 및 설명 관련 버튼이 제시된다. 

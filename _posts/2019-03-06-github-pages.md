@@ -2,7 +2,7 @@
 layout: post
 title:  "github pages 사용 방법"
 date:   2019-03-06 13:00:00 
-categories: [github pages]
+categories: [github]
 ---
 깃헙 페이지(GitHub Pages)는 깃헙 저장소를 이용하여 정적 웹 서비스를 제공하는 깃헙 서비스로 계정별로 서비스가 가능하다. 이번 튜토리얼에서는 깃헙 페이지 구축에 관해 학습한다.
 
