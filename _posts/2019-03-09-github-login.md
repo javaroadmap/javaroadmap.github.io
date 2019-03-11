@@ -1,18 +1,21 @@
 ---
 layout: post
-title:  "github login 방법"
+title:  "github logout 방법"
 date:   2019-03-09 13:00:00 
-categories: [github login]
+categories: [github logout]
 ---
 
-사용자가 깃헙에 로그인 하면, 대시보드 초기화면이 제시된다. 깃헙 시작을 위해 Start a project 버튼을 클릭한다.
+사용자가 깃헙에 로그인 하면, 대시보드 초기화면이 제시된다. 화면 왼쪽에 사용자가 보유하고 있는 저장소가 나열되며, 중앙 부분은 새로운 프로젝트 및 설명문이 제시된다. 사용자별 메뉴 선택을 위해  오른쪽끝 윗부분의 아이콘을 오늘쪽 마우스로 클릭한다. 클릭하면 다양한 메뉴가 제시되며, 이번 튜토리얼에서는 사인아웃(Signout, 로그아웃)을 그림과 같이 클릭한다. 공용 PC의 경우, 반드시 로그아웃하여야 한다.  
 
 ![Screen githublogin1](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/githublogin/githublogin1.png "Screen githublogin1")
 
+다음은 과제에 관한 것이다.  이제까지 튜토리얼을 학습한 후에, 본인의 깃험 페이지 주소를 다음 화면과 같이
+ 작성하여 자유게시판에 입력한다. 
+ 
 ![Screen githublogin2](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/githublogin/githublogin2.png "Screen githublogin2")
+
+이때 유념할 점은 가장 최신의 자유게시판 목록에 자신의 주소를 목록속에서 가나다 순으로 추가하는 것이다. 아래 그림의 빨간색 부분처럼 각자의 주소를 추가하여 전체 코드를 완성한다.  
 
 ![Screen githublogin3](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/githublogin/githublogin3.png "Screen githublogin3")
 
-클릭 후에 신규 저장소(repository) 생성을 위한 화면이 그림과 같이 제시된다. 신규 저장소를 생성하기 위해서 저장소 이름, 공개여부를 입력하고 Create repository 버튼을 클릭한다. 본 튜토리얼에서는 깃헙 저장소가 홈페이지 역할을 수행하는 깃헙 페이지(GitHub Pages) 서비스를 이용할 예정이므로, 저장소의 이름을 본인의 '아이디이름.github.io'로 설정한다. 예를 들어, 튜토리얼에서 사용한 계정이 jsptogo 이므로, 저장소 이름은 jsptogo.github.io 가 된다. 중복이 없는 경우, 체크 표시가 제시된다. 또한, 공개용으로 사용할 예정이므로  public 버튼을  체크하며 Initialize this repository with a README 항목은 체크하지 않는다. 설정이 끝난 후에, Create repository 버튼을 클릭한다. 
-
-이제, 깃헙을 이용한 홈페이지 구축이 완료되었다.
+이제, 깃헙 로그아웃과 목록작성데 대해 학습하였다.
