@@ -1,5 +1,6 @@
 ---
-layout: posttitle:  "github logout 방법"
+layout: post
+title:  "github logout 방법"
 date:   2019-03-09 14:00:00 
 categories: [github logout]
 ---
