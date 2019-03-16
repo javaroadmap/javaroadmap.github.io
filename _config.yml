@@ -27,7 +27,7 @@ share:
   twitter_username: github.io
   fb_appid: github.io
 urls:
-    - text: 자바로드맵
+    - text: 소개
       url: /about/
     - text: 프로젝트
       url: /projects/
