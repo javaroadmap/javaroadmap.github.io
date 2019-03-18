@@ -28,7 +28,7 @@ share:
   fb_appid: github.io
 urls:
     - text: 카테고리
-      url: /category/
+      url: /category/eclipse
     - text: 프로젝트
       url: /projects/
     - text: 소개
