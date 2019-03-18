@@ -27,10 +27,12 @@ share:
   twitter_username: github.io
   fb_appid: github.io
 urls:
-    - text: 소개
-      url: /about/
+    - text: 카테고리
+      url: /category/
     - text: 프로젝트
       url: /projects/
+    - text: 소개
+      url: /about/
     - text: XML
       url: /feed.xml
 url: "https://javaroadmap.github.io"
