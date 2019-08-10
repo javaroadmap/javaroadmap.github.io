@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "openJDK 설치 방법"
+title:  "이클립스 자바 설정 방법"
 date:   2019-08-10 10:50:00 
 categories: [eclipse]
 ---
  
-SUN microsystems를 인수한 Oracle의 java 정책 변경에 따라 OpenJDK의 활용이 중요한 화두가 되었다.  openJDK의 공식 홈페이지는 아래 그림과 같이 adoptopenJDK.net 이다.
-해당 홈 페이지에서 최신 버전을 다운로드 하기 위해서는 아래 방향으로 스크롤한다.
 
 ![Screen eclipsejava1](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/eclipsejava1.png "Screen eclipsejava1")
 
