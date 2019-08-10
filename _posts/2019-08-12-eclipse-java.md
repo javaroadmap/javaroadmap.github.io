@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이클립스 자바 설정 방법"
-date:   2019-08-13 13:50:00 
+date:   2019-08-12 13:50:00 
 categories: [eclipse]
 ---
  
