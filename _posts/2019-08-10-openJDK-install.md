@@ -30,19 +30,19 @@ JDK와 JRE 버전이 제시되며, 개발 목적으로 사용할 예정이므로
 
 ![Screen openJDK8](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/openjdk8.png "Screen openJDK8")
 
-Windows 탐색기를 오픈하여, 자바를 설치할 폴더를 확인한다. 금번 튜토리얼에서는 C 디렉토리 아래의 Program File > Java 폴더에 openJDK를 설치할 예정이다.  해당 폴더에는 아래 그림과 같이 기존에 사용되었던 JDK8 버전이 설치되어 있을믕 알 수 있다. 
+Windows 탐색기를 오픈하여, 자바를 설치할 폴더를 확인한다. 금번 튜토리얼에서는 C 디렉토리 아래의 Program File > Java 폴더에 openJDK를 설치할 예정이다.  해당 폴더에는 아래 그림과 같이 기존에 사용되었던 JDK8 버전이 설치되어 있음을 알 수 있다. 
 
 ![Screen openJDK9](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/openjdk9.png "Screen openJDK9")
 
-다운로드 받은 openJDK를 Java 폴더에 unzip 하고, 아래 그람과 같이 jdk-11-0.2-9 폴더가 생성된 것을 확인할 수 있다.  
+다운로드 받은 openJDK를 Java 폴더에 unzip 하면, 아래 그림과 같이 jdk-11-0.2-9 폴더가 생성된 것을 확인할 수 있다.  
 
 ![Screen openJDK10](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/openjdk10.png "Screen openJDK10")
 
-jdk-11-0.2-9 폴더를 클릭하면 하부 폴더 구조를 아래 그림과 같이 확인할 수 있다. bin 폴더의 위치를 기억한다.   
+jdk-11-0.2-9 폴더를 클릭하면 하부 폴더 구조를 아래 그림과 같이 확인할 수 있다. bin 폴더를 클릭하고, 해당 위치를 기억한다. 윈도우 Path 설정에 사용할 주소이다.    
 
 ![Screen openJDK11](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/openjdk11.png "Screen openJDK11")
 
-이제, Windows 전반적으로 openJDK를 사용하기 위한 설정을 실시한다. 설정을 위해서는 컴퓨터 > 속성을 선택한다.  Windows 10의 경우는 제어판 > 시스템및보안 > 시스템 > 고급시스템설정 > 환경변수를 선택한다.
+이제, Windows 전반적으로 openJDK를 사용하기 위한 설정을 실시한다. 설정을 위해서는 컴퓨터(오른쪽마우스) > 속성을 선택한다.  Windows 10의 경우는 제어판 > 시스템및보안 > 시스템 > 고급시스템설정 > 환경변수를 선택한다.
  
 ![Screen openJDK12](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/openjdk12.png "Screen openJDK12")
 
@@ -51,7 +51,7 @@ jdk-11-0.2-9 폴더를 클릭하면 하부 폴더 구조를 아래 그림과 같
 
 ![Screen openJDK13](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/openjdk13.png "Screen openJDK13")
 
-환경변수 설정을 위한 화면이 제시되며, 고급 >환경변수를 아래 그림과 같이 클릭한다.
+환경변수 설정을 위한 시스템속성 화면이 제시되며, 고급 >환경변수를 아래 그림과 같이 클릭한다.
 
 ![Screen openJDK14](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/openjdk14.png "Screen openJDK14")
 
@@ -59,7 +59,7 @@ jdk-11-0.2-9 폴더를 클릭하면 하부 폴더 구조를 아래 그림과 같
  
 ![Screen openJDK15](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/openjdk15.png "Screen openJDK15")
 
-클릭하면, 시스템 변수 편집 화면이 제시되며, 변수값의 마지막으로 이동하여, openJDK unzip 할 때 확인하였던 bin 폴더 위치를 추가하고 확인버튼을 클릭한다.  
+클릭하면, 시스템 변수 편집 화면이 제시되며, 변수값의 마지막으로 이동하여, openJDK unzip 할 때 확인하였던 bin 폴더 위치를 설명과 같이 추가하고 확인버튼을 클릭한다.  
 
 ![Screen openJDK16](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/openJDKinstall/openjdk16.png "Screen openJDK16")
 

@@ -79,5 +79,13 @@ categories: [eclipse]
 이클립스를 이용한 개발에서 한글을 처리하기 위해서는 utf-8 설정이 필요하다. 한글 설정을 위해서 Window > Preferences > General > Appearance > Workspace로 이동한다. 그림과 같이 utf-8로 설정하고, Apply & Close 버튼을 클릭한다. 
  
 ![Screen eclipse16](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipseinstall/eclipse16.png "Screen eclipse16")
+![Screen eclipse17](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipseinstall/eclipse17.png "Screen eclipse17")
+![Screen eclipse18](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipseinstall/eclipse18.png "Screen eclipse18")
+![Screen eclipse19](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipseinstall/eclipse19.png "Screen eclipse19")
+![Screen eclipse20](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipseinstall/eclipse20.png "Screen eclipse20")
+
+이클립스를 이용한 개발에서 한글을 처리하기 위해서는 utf-8 설정이 필요하다. 한글 설정을 위해서 Window > Preferences > General > Appearance > Workspace로 이동한다. 그림과 같이 utf-8로 설정하고, Apply & Close 버튼을 클릭한다. 
+ 
+![Screen eclipse21](https://raw.githubusercontent.com/javaroadmap/javaroadmap.github.io/master/static/img/_posts/eclipseinstall/eclipse21.png "Screen eclipse21")
 
 이제, 이클립스를 이용한 코딩 개발이 준비되었다.
